@@ -1,5 +1,7 @@
 # The desciption of how to use automake by use a amhello example
 
+* reference url : http://www.gnu.org/software/automake/manual/html_node/Creating-amhello.html#Creating-amhello
+
 ```
 $ cat src/main.c
 ```
