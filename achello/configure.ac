@@ -4,7 +4,7 @@
 AC_PREREQ([2.69])
 AC_INIT([hello], [1.0], [bug-autoconf@gnu.org])
 AM_INIT_AUTOMAKE([-Wall -Werror foreign])
-AC_CONFIG_SRCDIR([hello.c])
+#AC_CONFIG_SRCDIR([hello.c])
 AC_CONFIG_HEADERS([config.h])
 
 # Checks for programs.
